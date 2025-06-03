@@ -550,4 +550,9 @@ footer {
         display: none;
     }
 
+    .menu-toggle .bar {
+        width: 25px;
+        height: 3.5px;
+    }
+
 }
