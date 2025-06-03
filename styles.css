@@ -30,8 +30,7 @@ header {
     align-items: center;
     width: 100%;
     position: relative;
-    z-index: 9999;
-    overflow: hidden;
+    z-index: 10;
 }
 
 h1 {
@@ -544,7 +543,7 @@ footer {
     }
 
     .news-area p {
-        font-size: 1.2rem
+        font-size: 1.4rem
     }
 
     .mobile-gone {
